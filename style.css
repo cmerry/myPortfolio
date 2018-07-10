@@ -1,0 +1,44 @@
+
+
+#my_profile {
+  background-color: grey;
+  text-decoration: underline;
+  text-decoration-style:wavy;
+  font-family:Brush Script Std;
+
+}
+
+#bio {
+  background-color: #B6F385;
+  font-size: 20px;
+  font-family:monospace;
+
+}
+
+#favorites {
+  background-color: #85F3E8;
+  width: 49%;
+  text-align: center;
+  float: left;
+  font-size: 20px;
+  font-family:monospace;
+}
+
+#facts {
+  background-color: #C584FB;
+  width: 49%;
+  text-align: center;
+  float: right;
+  font-size: 20px;
+  font-family:monospace;
+}
+
+#photo {
+  background-color: #FBF584;
+  width: 49%;
+  text-align: center;
+  float: right;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-size:monospace
+}
